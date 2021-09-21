@@ -19,4 +19,4 @@ var e,t=arguments[3];!function(t,r){"object"==typeof exports&&"object"==typeof m
 },{"./refs":"VyiV","./create-menu":"CPUU","./theme-switch":"JIhF"}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/styles.css"),require("./js/app");
 },{"./css/styles.css":"krre","./js/app":"QdeU"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-09-gallery/src.ba8fbcd9.js.map
+//# sourceMappingURL=/goit-js-hw-10-food-service/src.ba8fbcd9.js.map
